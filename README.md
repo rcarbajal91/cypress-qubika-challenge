@@ -15,4 +15,7 @@ Navigate to the project directory
 npm install
 
 <h2>#Running Test</h2> 
-npm run qubika-test
+npm run qubika-test <br>
+
+<h2>Reporter</h2>
+<a href="https://www.npmjs.com/package/mochawesome">mochawesome</a>
