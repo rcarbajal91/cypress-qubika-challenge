@@ -1,7 +1,7 @@
 <h1> Cypress / Qubika challenge</h1>
 
 <h2>Description</h2>
-This repository contains an automation flow for a sports platform.
+This repository contains an automation flow on the Qubika website.
 
 <h2>#Prerequisites</h2>
 Node.js 12.x or higher <br>
