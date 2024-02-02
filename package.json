@@ -1,0 +1,16 @@
+{
+  "name": "cypress-qubika",
+  "version": "1.0.0",
+  "description": "Cypress - Qubika",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open --browser chrome --e2e",
+    "qubika-test": "cypress run --spec cypress/e2e/Exercise3.cy.js --browser chrome --headed" 
+  },
+  "author": "Rodrigo Carbajal",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.4",
+    "cypress-mochawesome-reporter": "^3.8.1"
+  }
+}
