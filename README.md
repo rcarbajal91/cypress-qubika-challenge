@@ -9,7 +9,7 @@ npm installed
 
 <h2>#Setup</h2>
 Clone this repository<br>
-Navigate to the project directory: cd project name
+Navigate to the project directory
 
 <h2>#Install dependencies:</h2> 
 npm install
